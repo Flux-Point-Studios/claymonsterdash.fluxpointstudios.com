@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fluxpoint.claymonsterdash",
+      "sha256_cert_fingerprints": [
+        "A9:40:22:79:63:98:58:27:BC:8E:A0:7C:CD:FD:A1:A8:CF:6F:EC:53:2B:C7:C8:F0:3F:5B:6F:7E:B7:73:D0:82"
+      ]
+    }
+  }
+]
